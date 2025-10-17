@@ -38,7 +38,5 @@ int e=n-1;
     if(ans!=-1){
     cout<<"target element found at position:"<<ans<<endl;
     }
-    else{
-    cout<<"target element not found"<<endl;
-    }
+   
 }
